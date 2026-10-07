@@ -12,6 +12,6 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js --watch"
+    "dev": "node app.js --watch"
   }
 }
