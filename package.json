@@ -1,0 +1,17 @@
+{
+  "name": "alquimia",
+  "version": "1.0.0",
+  "description": "\"proyecto para aprender backend\"",
+  "keywords": [
+    "backend",
+    "alquimia",
+    "fantasia",
+    "node"
+  ],
+  "author": "Xavix404",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js --watch"
+  }
+}
