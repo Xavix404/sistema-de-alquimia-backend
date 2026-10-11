@@ -1,0 +1,24 @@
+GET http://localhost:3000/elements
+
+###
+GET http://localhost:3000/elements/1
+
+###
+POST http://localhost:3000/
+content-type: application/json
+
+{
+    "name": "blue leaf",
+    "type": "simple"
+}
+
+###
+PUT http://localhost:3000/elements/0
+content-type: application/json
+
+{
+    "type": "complex"
+}
+
+###
+DELETE http://localhost:3000/elements/2
