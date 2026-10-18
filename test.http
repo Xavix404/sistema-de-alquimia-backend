@@ -8,7 +8,7 @@ POST http://localhost:3000/
 content-type: application/json
 
 {
-    "name": "blue leaf",
+    "name": "red leaf",
     "type": "simple"
 }
 
